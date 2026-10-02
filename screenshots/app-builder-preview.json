@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NEXORA",
+      "hasCanvas": false,
+      "bodyTextLen": 448,
+      "bodyTextHash": "0f21fd2537a4d7de6ee8562dd6b0ac14566019a3818ba0358312938ad6c2e70b",
+      "bodyTextPrefix": "NEXORA Workplace command deck Email Meetings Planner Research As",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NEXORA",
+      "hasCanvas": false,
+      "bodyTextLen": 357,
+      "bodyTextHash": "20d897ce7ab665dc1df9ab28874376bc7704e44ed61d04009f3e930119af70fb",
+      "bodyTextPrefix": "NEXORA Workplace command deck Email Meetings Planner Research As",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
